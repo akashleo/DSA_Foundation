@@ -11,7 +11,6 @@ void subsets(string s, int i=0 , string curr="")
 
     subsets(s, i+1, curr + s.at(i));
     subsets(s, i+1, curr);
-
 }
 
 // Driver code
