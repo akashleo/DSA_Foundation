@@ -13,7 +13,7 @@ void printArray( int arr[] ,int n)
 }
 
 void reverseArray( int arr[] ,int n )
-{
+{//gjjhh
     int begin =0;
     int end = n-1;
     int temp;
