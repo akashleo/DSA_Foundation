@@ -44,5 +44,5 @@ int main()
     return 0;
 }
 
-// This code is contributed 
-// by Akanksha Rai(Abby_akku)
+// This code is contributed by akashleo
+
